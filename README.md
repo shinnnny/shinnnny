@@ -35,16 +35,24 @@ Something about me 😉:
 </p>
 
 <table align="center">
-	<tbody align="center" valign="center">
-		<tr>
-			<td>
-                <picture>    <source     srcset="https://github-readme-stats-ochre-eight-15.vercel.app/api?username=shinnnny&show_icons=true&theme=dark&hide_border=true"     media="(prefers-color-scheme: dark)"    />    <source     srcset="https://github-readme-stats-ochre-eight-15.vercel.app/api?username=shinnnny&show_icons=true&hide_border=true"     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    />    <img src="https://github-readme-stats-ochre-eight-15.vercel.app/api?username=shinnnny&show_icons=true&hide_border=true" />   </picture>
-            </td>
-			<td>
-                <picture>    <source     srcset="https://github-readme-stats-ochre-eight-15.vercel.app/api/top-langs/?username=shinnnny&layout=compact&hide_border=true&theme=dark"     media="(prefers-color-scheme: dark)"    />    <source     srcset="https://github-readme-stats-ochre-eight-15.vercel.app/api/top-langs/?username=shinnnny&layout=compact&hide_border=true"     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    />    <img src="https://github-readme-stats-ochre-eight-15.vercel.app/api/top-langs/?username=shinnnny&layout=compact&hide_border=true" />   </picture>
-            </td>
-		</tr>
-	</tbody>
+<tbody align="center" valign="center">
+<tr>
+	<td>
+                <picture>
+                    <source srcset="https://github-readme-stats-ochre-eight-15.vercel.app/api?username=shinnnny&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)"    />
+                    <source srcset="https://github-readme-stats-ochre-eight-15.vercel.app/api?username=shinnnny&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                    <img src="https://github-readme-stats-ochre-eight-15.vercel.app/api?username=shinnnny&show_icons=true&hide_border=true" />
+                </picture>
+	</td>
+	<td>
+                <picture>
+                    <source srcset="https://github-readme-stats-ochre-eight-15.vercel.app/api/top-langs/?username=shinnnny&layout=compact&hide_border=true&theme=dark" media="(prefers-color-scheme: dark)" />
+                    <source srcset="https://github-readme-stats-ochre-eight-15.vercel.app/api/top-langs/?username=shinnnny&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                    <img src="https://github-readme-stats-ochre-eight-15.vercel.app/api/top-langs/?username=shinnnny&layout=compact&hide_border=true" />
+                /picture>
+	</td>
+</tr>
+</tbody>
 </table>
 
 <p align="center">
