@@ -1,4 +1,21 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=shinnnny)
+
+<a width="30%" align="right" href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0" alt="moon.svg" />
+  </a>
+  
+This is the place where I opensource stuff and break things 😉:
+
+- 🔭 I’m currently working on AI-based economic dispatch in new power system
+- 🌱 I’m currently learning multi-modal learning and e.t.c
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shinnnny&show_icons=true" />
+</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinnnny&layout=compact" />
+
+<img width="100%" src="https://raw.githubusercontent.com/shinnnny/shinnnny/main/assets/github-contribution-grid-snake.svg" />
 
 <!--
 **shinnnny/shinnnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
