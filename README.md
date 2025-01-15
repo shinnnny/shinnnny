@@ -3,7 +3,7 @@
         <img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0" alt="moon.svg" />
     </a>
 <!--     <h1 align="center">Something about shinnnny</h1> -->
-<!--     <h3 align="center">Quaruple Ns stand for quadruple SHINNY ☀️</h3> -->
+<!--     <h3 align="center">Quaruple Ns stand for quadruple SHINY ☀️</h3> -->
 </p>
 <p align="center">
     <picture>
